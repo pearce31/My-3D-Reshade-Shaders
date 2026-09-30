@@ -22,6 +22,8 @@ Green/Magenta works directly in games, programs or shaderglass for anything on t
 
 Green/Magenta works directly in games, programs or shaderglass for anything on the desktop.
 
+I use trioviz inficolor glasses off amazazon and it's probably the best there is as far as Anaglyph goes and the sbs one looks great on my acer spatial labs predator in shaderglass 
+
 \---
 
 MIT License — free to use, modify, and share.
